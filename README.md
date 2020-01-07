@@ -1,28 +1,33 @@
 # Unity2019114f1-2D-Template
 
 ### Project description: 
-Introduction/Project summary 
+Creating a UI that displays written text when clicking on a button. It should also display a Counter that counts upwards when clicking a button.
 
 ### Development platform: 
 (OS, Unity Version, Visual Studio Version, used SDKs)
+- MacOS Catalina
+- Unity 2019.1.14f1
+- VisualStudioCode 40.2
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+TODO
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+TODO
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+TODO
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+TODO
 
 ### Project state: 
-incl. progress in percent
+TODO
 
 ### Limitations: 
+TODO
 
 ### Lessons Learned: 
+TODO
 
-Copyright by you :)
+Copyright by HATZ
